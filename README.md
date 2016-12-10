@@ -1,6 +1,6 @@
 # electron-vue
 
-> An electron-vue project
+>Vue 2.0 とVuex、Electronで作ったTodoアプリ 
 
 ## Build Setup
 
